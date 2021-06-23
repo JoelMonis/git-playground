@@ -4,3 +4,5 @@ Testing some git features
 Somebody else has added a new line
 
 This is the new line we have added.
+
+This wil add a new branch.
